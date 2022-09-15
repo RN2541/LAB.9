@@ -31,5 +31,5 @@ List<Product> products = [
     image: "assets/images/Item_3.png",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim",
-  ),
+  )
 ];
